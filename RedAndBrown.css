@@ -1,0 +1,36 @@
+h1 {
+	color: rgb(140, 85, 0);
+	font-family: "Verdana", Arial, sans-serif;
+	font-size: 42px;
+	letter-spacing: -2px;
+	text-shadow: 2px 2px rgb(40, 0, 0);
+	background-color: rgb(140, 0, 0);
+	text-align: left;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+p, li, ul {
+	color: rgb(250, 100, 100);
+	font-family: "Georgia", Times, serif;
+	font-size: 18px;
+	text-align: left;
+	margin-right: 0px;
+}
+
+body {
+	background-color: rgb(80, 50, 0);
+	border-style: dotted;
+}
+
+html {
+	background-color: rgb(120, 80, 0); 
+	<!-- background-image: url("images/RedAndBrown.bmp"); -->
+	background-attachment: fixed;
+	background-repeat: repeat-y; 
+	<!-- background-position: left-top; -->
+}
+
+* {
+	margin-right: 205px;
+}
