@@ -11,6 +11,7 @@ p, li, ul, body {
   font-size: 16px;
   text-align: left;
   background-color: rgb(100, 50, 100); 
+  margin-left: 30px;
 }
 
 body {
@@ -24,11 +25,13 @@ li,ul{
 }
 
 html{
-	background-image: url("http://sickerthanyouravg.com/data/wallpapers/178/WDF_2177918.jpg");
+	background-image: url("http://wallpapercave.com/wp/vn0UE1r.jpg");
+	<!--background-image: url("http://sickerthanyouravg.com/data/wallpapers/178/WDF_2177918.jpg");-->
+	background-repeat: no-repeat;
+	background-position: left-top;
 }
 
 * {
   background-color: rgb(140, 70, 140); 
-  margin-left: 30px;
   margin-right: 120px;
 }
