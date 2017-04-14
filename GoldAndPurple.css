@@ -1,8 +1,10 @@
 h1 {
   color: rgb(100, 50, 100);
   font-family: "Helvetica", Arial, sans-serif;
-  font-size: 32px;
+  font-size: 42px;
+  letter-spacing: 3px;
   background-color: rgb(220, 220, 0);
+  text-indent: 10px;
 }
 
 p, li, ul, body {
@@ -11,27 +13,25 @@ p, li, ul, body {
   font-size: 16px;
   text-align: left;
   background-color: rgb(100, 50, 100); 
-  margin-left: 30px;
+  margin-left: 10px;
 }
 
 body {
   background-color: rgb(100, 50, 100); 
   border-style: solid;
-  margin-right: 180px;
 } 
 
-li,ul{
-	margin-left: 0px;
+li,ul {
+  margin-left: 0px;
 }
 
-html{
-	background-image: url("http://wallpapercave.com/wp/vn0UE1r.jpg");
-	<!--background-image: url("http://sickerthanyouravg.com/data/wallpapers/178/WDF_2177918.jpg");-->
-	background-repeat: no-repeat;
-	background-position: left-top;
+html {
+  background-image: url("images/GoldAndPurple.bmp");
+  background-repeat: repeat-y;
+  background-position: left-top;
 }
 
 * {
   background-color: rgb(140, 70, 140); 
-  margin-right: 120px;
+  margin-right: 210px;
 }
