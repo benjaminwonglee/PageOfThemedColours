@@ -16,14 +16,19 @@ p, li, ul, body {
 body {
   background-color: rgb(100, 50, 100); 
   border-style: solid;
+  margin-right: 180px;
 } 
 
 li,ul{
 	margin-left: 0px;
 }
 
+html{
+	background-image: url("http://sickerthanyouravg.com/data/wallpapers/178/WDF_2177918.jpg");
+}
+
 * {
-  background-color: rgb(200, 200, 200); 
+  background-color: rgb(140, 70, 140); 
   margin-left: 30px;
-  margin-right: 30px;
+  margin-right: 120px;
 }
