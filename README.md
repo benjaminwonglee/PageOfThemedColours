@@ -4,7 +4,7 @@ This is a series of HTML and CSS pages to help learn new skills coding HTML and 
 The idea is to create pages that are colour coordinated, and be able to link them together with links; 
 being able to go backwards and forwards in series. 
 
-This, which is a series of HTML pages designed with specific colours... literally called PageOfThemedColours. 
+This is a series of HTML pages designed with specific colours... literally called PageOfThemedColours.
 
 Currently there is one related project to this going on. It is a PseudoRandomBackgroundDrawer to output a 
 bitmap to put on the backgrounds for these HTML pages. 
@@ -13,7 +13,8 @@ If there are any burning questions, please contact me, Benjamin Wong-Lee via e-m
 
 **AIM**
 
-Ultimately, the aim of this project is to improve coding skills to create something that looks nice. Also to keep 
+Ultimately, the aims of this project include improving coding skills to create something that looks nice, using version control
+effectively; avoiding merge conflicts by committing code relatively frequently, and working as a team. 
 
 **RULES**
 
