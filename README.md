@@ -9,6 +9,9 @@ This is a series of HTML pages designed with specific colours... literally calle
 Currently there is one related project to this going on. It is a PseudoRandomBackgroundDrawer to output a 
 bitmap to put on the backgrounds for these HTML pages. 
 
+The first thing to do is to click "Fork" and fork your own copy of this to your GitHub account... However I have no idea how it works so 
+please let me know how that goes, I'm keen to find out, and comment on the issue that I posted regarding this.
+
 If there are any burning questions, please contact me, Benjamin Wong-Lee via e-mail: benjaminwonglee@gmail.com, or via social media.  
 
 **AIM**
