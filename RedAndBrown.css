@@ -5,20 +5,23 @@ h1 {
 	letter-spacing: -2px;
 	text-shadow: 2px 2px rgb(40, 0, 0);
 	background-color: rgb(140, 0, 0);
-	text-align: left;
-	margin-left: 0px;
-	margin-right: 0px;
+	text-align: center;
+	margin-left: 200px;
+	margin-right: 200px; 
 }
 
-p, li, ul {
+p {
+	margin-left: 200px;
+	margin-right: 200px; 
 	color: rgb(250, 100, 100);
 	font-family: "Georgia", Times, serif;
 	font-size: 18px;
-	text-align: left;
-	margin-right: 0px;
+	text-align: center;
 }
 
 body {
+	margin-left: 250px;
+	margin-right: 250px;
 	background-color: rgb(80, 50, 0);
 	border-style: dotted;
 }
@@ -29,8 +32,4 @@ html {
 	background-attachment: fixed;
 	background-repeat: repeat-y; 
 	<!-- background-position: left-top; -->
-}
-
-* {
-	margin-right: 205px;
 }
