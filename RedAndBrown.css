@@ -21,12 +21,25 @@ p {
 	width: 600px;
 }
 
+div {
+	margin-left: 200px;
+	padding: 20px;
+	padding-right: -20px;
+	background-color: rgb(205,133,63);
+	color(0,0,0);
+	font-family: "Georgia", Times, serif;
+	font-size: 18px;
+	text-align: center;
+	width: 560px;
+}
+
 body {
 	margin-left: 250px;
 	margin-right: 250px;
 	background-color: rgb(80, 50, 0);
 	border-style: dotted;
 	width: 1020px;
+	height: 500px;
 }
 
 html {
