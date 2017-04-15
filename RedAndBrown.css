@@ -7,7 +7,8 @@ h1 {
 	background-color: rgb(140, 0, 0);
 	text-align: center;
 	margin-left: 200px;
-	margin-right: 200px; 
+	margin-right: 200px;
+	width: 600px;
 }
 
 p {
@@ -17,6 +18,7 @@ p {
 	font-family: "Georgia", Times, serif;
 	font-size: 18px;
 	text-align: center;
+	width: 600px;
 }
 
 body {
@@ -24,6 +26,7 @@ body {
 	margin-right: 250px;
 	background-color: rgb(80, 50, 0);
 	border-style: dotted;
+	width: 1020px;
 }
 
 html {
@@ -31,5 +34,4 @@ html {
 	<!-- background-image: url("images/RedAndBrown.bmp"); -->
 	background-attachment: fixed;
 	background-repeat: repeat-y; 
-	<!-- background-position: left-top; -->
 }
