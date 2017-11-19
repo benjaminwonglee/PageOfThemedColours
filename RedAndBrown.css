@@ -28,19 +28,14 @@ body {
 
 html {
 	background-color: rgb(120, 80, 0);
-	<!-- background-image: url("images/RedAndBrown.bmp"); -->
+	background-image: url("images/RedAndBrown.png");
 	background-attachment: fixed;
-	background-repeat: repeat-y;
 }
 
 span.colorexample {
 	font-family: "Georgia", Times, serif;
 	font-size: 18px;
 	text-align: center;
-}
-
-span.buttonspace {
-	width: 60%;
 }
 
 div.lighterbrown {
@@ -60,21 +55,25 @@ div.buttonholder {
 button.back {
 	background-color: rgb(140, 0, 0);
 	color: rgb(140, 85, 0);
-	padding: 8px 10px;
 	border-color: rgb(80, 50, 0);
 	text-align: center;
 	font-size: 24px;
-	margin-left: 4px;
-	margin-bottom: 4px;
+	width: 15%;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	margin-left: 1%;
+	margin-bottom: 1%;
+	margin-right: 67.25%;
 }
 
-button.right {
+button.next {
 	background-color: rgb(140, 0, 0);
 	color: rgb(140, 85, 0);
-	padding: 8px 10px;
 	border-color: rgb(80, 50, 0);
 	text-align: center;
 	font-size: 24px;
-	margin-right: 4px;
-	margin-bottom: 4px;
+	width: 15%;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	margin-bottom: 1%;
 }
